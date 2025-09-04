@@ -1,0 +1,8 @@
+# deps
+node_modules/
+.env
+dist
+seed
+.vercel
+staging.vercel
+production.vercel
