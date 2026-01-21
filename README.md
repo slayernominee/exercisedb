@@ -1,3 +1,7 @@
+Tbh I'm not sure about if I'm allowed to use this, as it's clearly under the AGPL-3.0 which would mean yes, in AGPL-3.0 projects with stating changes (git) & giving credit. But I Found a Project ExerciseDBapi which seems to have been build based on this dataset & more but there is nothing available anymore (seems like they deleted it ...) 
+
+Forked Readme: 
+
 <div align="center">
   <img src="https://cdn.exercisedb.dev/exercisedb/exercisedb_banner.png" alt="ExerciseDB API Banner" width="100%" height="600px" />
   
